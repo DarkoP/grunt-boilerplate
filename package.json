@@ -1,0 +1,16 @@
+{
+  "name": "grunt-boilerplate",
+  "version": "0.1.0",
+  "description": "Grunt Boilerplate",
+  "author": "DarkoP",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "~0.4.4",
+    "grunt-contrib-jshint": "latest",
+    "grunt-contrib-uglify": "latest",
+    "jshint-stylish": "latest",
+    "grunt-contrib-less": "latest",
+    "grunt-contrib-cssmin": "latest",
+    "grunt-contrib-watch": "latest"
+  }
+}
